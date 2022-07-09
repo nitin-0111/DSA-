@@ -1,0 +1,1 @@
+{"name":"Local: 3_Knapsack","url":"e:\\Coding_and_Web\\c++\\DSA cn\\11_DP\\DP--2\\lec\\3_Knapsack.cpp","tests":[{"id":1641187012757,"input":"4\n1 2 4 5\n5 4 8 6\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding_and_Web\\c++\\DSA cn\\11_DP\\DP--2\\lec\\3_Knapsack.cpp","group":"local","local":true}

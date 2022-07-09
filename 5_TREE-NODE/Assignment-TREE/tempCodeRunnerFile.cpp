@@ -1,0 +1,1 @@
+cout<<ans.M<<" "<<ans.SM;
